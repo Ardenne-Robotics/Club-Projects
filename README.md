@@ -15,12 +15,17 @@ Students can contribute code, improve existing projects, fix bugs, and share the
 - Upload your files or edit existing code.
 - Make sure your changes work.
 
-**3. Submit your contribution**
+**3. Naming Your File**
+- Use the format ProjectName-YourName.
+- Keep the original file extension (e.g. .py, .js, .cpp).
+- Place multiple project files in a folder with the same naming format.
+
+**4. Submit your contribution**
 - Click Contribute → Open pull request.
 - Explain what you added or changed.
 - Submit your pull request.
 
-**4. Wait for review**
+**5. Wait for review**
 - The club maintainers will review your submission.
 - Approved contributions will be merged into the main repository.
 
