@@ -1,4 +1,3 @@
-# Club-Projects
 # 🤖 Ardenne Robotics – Club Projects
 
 Welcome to the official Ardenne Robotics collaborative project repository!
